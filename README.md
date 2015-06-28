@@ -11,5 +11,16 @@ in a bundle done by docker.
 * Docker.
 * Docker-compose (fig).
 
+## Links
+* Java Docker image: https://registry.hub.docker.com/_/java/
+* Maven Docker image: https://registry.hub.docker.com/_/maven/
+* PostGres Docker image: https://registry.hub.docker.com/_/postgres/
+* Dockerfile reference: https://docs.docker.com/reference/builder/
+* HowTo Docker / CoreOs:
+https://coreos.com/docs/launching-containers/building/getting-started-with-docker/
+* Deploy Spring with Docker:
+http://fr.slideshare.net/chris.e.richardson/deploying-spring-boot-applications-with-docker-east-bay-cloud-meetup-dec-2014
+* Spring boot with Docker: https://spring.io/guides/gs/spring-boot-docker/
+
 ## Licence
 The project is GPLv3.
