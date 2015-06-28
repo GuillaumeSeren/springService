@@ -1,7 +1,7 @@
 # The maven container should build the stuff
-maven:
-  image: maven:latest
-  command: mvn package
+# maven:
+#   image: maven:latest
+#   command: mvn package
 
 # A DB
 postgresql:
